@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```JavaScript
 import Bio from 'Bio'
 
-const CreateGame = () => {
+const CreateDescription = () => {
 
 
 	
@@ -45,13 +45,13 @@ const CreateGame = () => {
 
 }
 
-export default CreateGame
+export default CreateDescription
 
 
 ```
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Egremy-quark&show_icons=true&theme=synthwave" alt="Egremy-quark :: Profile Stats" /></p>
 
-<h4 align="center"> langs :tongue:</h4>
+<h4 align="center"> langs :alien:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egremy-quark&langs_count=10&theme=tokyonight&layout=compact" alt="Egremy-quark :: Top Langs" /></p>
