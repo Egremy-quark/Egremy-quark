@@ -50,6 +50,13 @@ export default CreateDescription
 
 ```
 
+## Contact
+<div> 
+ <a href="https://www.linkedin.com/in/alfredo-egremy-elias-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alfredoegrelias22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Egremy-quark&show_icons=true&theme=synthwave" alt="Egremy-quark :: Profile Stats" /></p>
 
 <h4 align="center"> langs :alien:</h4>
