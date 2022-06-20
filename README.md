@@ -71,7 +71,7 @@ export default CreateDescription
   <img align="center" alt="Git" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Heroku" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Vercel" height="30" width="50" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
-</div>
+</div><br><br>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Egremy-quark&show_icons=true&theme=synthwave" alt="Egremy-quark :: Profile Stats" /></p>
